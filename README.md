@@ -14,8 +14,8 @@ JavaScript data structure and algorithms
 ## 📊 Progress Tracker
 
 - Total Episodes: 80
-- Completed: 0
-- Current: [1](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP&index=1)
+- Completed: 2
+- Current: [3](https://youtu.be/Fo2Qnw5pMGo?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
 
 ## 📚 Resources
 

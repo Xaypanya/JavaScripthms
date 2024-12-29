@@ -1,0 +1,9 @@
+1. What is an algorithm?
+-> An algorithm is a set of well-designed instructions to solve particular problem 
+
+2. Why algorithms?
+-> As a developer, you're going to across problems that you need to solve 
+-> Learning algorithms translates to learning different techniques to efficiently solve those problems
+-> One problem can be solved in many ways
+-> Eeach algorithm comes with its own tradeoff
+
