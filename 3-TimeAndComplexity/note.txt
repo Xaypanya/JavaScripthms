@@ -1,0 +1,13 @@
+# There are many ways to solve problem
+Ex: There are multiple algorithms to sort a list of numbers
+
+# We evaluate the performace of an algorithm in terms of its  input size
+1. Time Complexity - amount of Time taken by an algorithm to run as a function of input size
+2. Space Complexity - amount of Memory taken by an algorithm to run as a function of input size
+
+# How to represent complexity?
+-> using Asymntotic notations, it's a mathematical tools
+1. Big-O Notation - Worst case complexity (what we must concern)
+2. Omega Notation - Best case complexity 
+3. Theta Notation - Average case complexity 
+

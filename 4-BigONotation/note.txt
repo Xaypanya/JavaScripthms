@@ -1,0 +1,22 @@
+# Big-O Notation
+-> the worst case complexity of an algorithm is represented using the Big-O Notation
+-> Big-O notation describes the complexity of an algorithm using algebra terms
+## It has two important characteristics
+1. It is expressed in terms of the input
+2. It focuses on the bigger picture without getting caught up in the minute details
+
+# Simplify Time Complexity
+-> Execute 1 time - O(1) Constant
+-> Execute n time or 1 loop - O(n) Linear
+-> Execute n^2 time or nested 2 loop - O(n^2) Quadratic
+-> Execute n^3 time or nested 3 loop - O(n^2) Cubic
+
+# Space complexity
+-> O(1) - Constant : when the algorithm no needed more Memory or Memory needed not depend on input size
+-> O(n) - Linear : when the extra space needed when input size grows
+-> O(logn) - Logarithmic : when the extra space needed but not the same rate as input size 
+
+## few points to note
+- Multiple algorithm exist for the same problem and there is no right solution, different algorithm work well under different constraint
+- The same algorithm with the same programming language can be implemented in different ways.
+- When writing programs at work, don't lose sight of the big picture. Rather than writing the clever code, write code that is simple to read and maintain
