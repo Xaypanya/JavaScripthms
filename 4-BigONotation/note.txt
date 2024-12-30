@@ -19,4 +19,4 @@
 ## few points to note
 - Multiple algorithm exist for the same problem and there is no right solution, different algorithm work well under different constraint
 - The same algorithm with the same programming language can be implemented in different ways.
-- When writing programs at work, don't lose sight of the big picture. Rather than writing the clever code, write code that is simple to read and maintain
+- When writing programs at work, don't lose sight of the big picture. Rather than writing the clever code, write code that is simple to read and maintain.
