@@ -1,0 +1,14 @@
+# Math algorithms
+- Fibonacci sequence
+- Factorial of a number
+- Prime number
+- Power of two 
+- Resurcion
+- Fibonacci sequence with recursion
+- Factorial of a number with recursion
+
+# The approach
+- Problem statement
+- Try solving the problem 
+- Implement the solution 
+- Determine the Big-O notation
